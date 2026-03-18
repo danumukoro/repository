@@ -12,4 +12,4 @@ Whether I’m designing electrical protection schemes or architecting traditiona
 
 ### 🛠️ Technical Focus
 * **Engineering:** Power System Protection (P&C), Telecom Maintenance, Data Analysis.
-* **Web Development:** Full-Stack (JavaScript, HTML, CSS), Minimalist UI/UX Design.
+* **Web Development:** Full-Stack (Node.js, React, Typescript, JavaScript, HTML, CSS)
